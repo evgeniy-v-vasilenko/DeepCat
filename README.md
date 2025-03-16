@@ -29,6 +29,13 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+# Other
 ## License
+                   GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
 
 [GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
