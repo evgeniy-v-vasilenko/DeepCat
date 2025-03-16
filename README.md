@@ -1,5 +1,5 @@
 # DeepAI
-DeepAI is group that developed DeepVid and DeepCat
+DeepAI is AI mini-project of Generative AIs (by [RCT](https://cat-ai-project.ru/about-us))
 ## DeepCat
 Text2Image generator
 ##
