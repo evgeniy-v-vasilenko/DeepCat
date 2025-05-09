@@ -1,6 +1,6 @@
-# DeepAI
-DeepAI is AI mini-project of Generative AIs (by [RCT](https://cat-ai-project.ru/about-us))
-## DeepCat
+# DeepCat info
+DeepCat is AI mini-project of Generative AIs (by [RCT](https://cat-ai-project.ru/about-us))
+## DeepCat [MAIN]
 Text2Image generator
 ##
 Usage:
